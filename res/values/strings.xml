@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fill in the blanks</string>
+    <string name="button_start">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Play&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="button2">&#160;Menu&#160;</string>
+    <string name="textView1">Fill in the blanks</string>
+    <string name="textView2">a game by Refurbished Media&#160;</string>
+    <string name="txt">Fill 60% without making ten mistakes</string>
+
+</resources>
